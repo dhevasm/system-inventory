@@ -22,11 +22,10 @@ a{
 text-decoration: none;
 }
 
-#togglePassword:hover{
+#togglePassword, #togglePasswordConfirm:hover{
 cursor: pointer;
 }
 
-#togglePassword{
+#togglePassword, #togglePasswordConfirm{
 font-size: 20px;
 }
-
